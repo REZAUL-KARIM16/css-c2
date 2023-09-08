@@ -1,0 +1,158 @@
+
+.main{
+
+    background-color: #dcd0fe;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+
+}
+
+
+
+/* cretive it cart */
+
+
+.crmain{
+
+width: 95%;
+margin: 40px;
+
+
+}
+
+.Cretive{
+    width: 25%;
+    background-color: #fff;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.info{
+    padding: 10px;
+
+
+}
+.banner{
+
+    width: 100%;
+    height:250px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-size: cover;
+    
+    background-image: url(https://www.creativeitinstitute.com/images/course/course_1665409737.jpg);
+
+
+}
+.btn{
+    width: 70%;
+    margin: auto;
+    padding: 15px;
+    background-color: #fff;
+    color: rgb(201, 25, 25);
+    border-radius: 10px;
+    border-color: #ff3a3a;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+.Cprice{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+}
+.btn:hover{
+
+    background-color: #ff8e2b;
+    color: #fff;
+    
+}
+
+.banner.two{
+
+    background-position: center;
+    background-image: url(https://www.creativeitinstitute.com/images/course/course_1662552115.jpg);
+
+}
+.banner.three{
+
+    background-image: url(https://www.creativeitinstitute.com/images/course/course_1662637290.jpg);
+}
+
+
+
+/* startech */
+
+.smain{
+
+    width: 95%;
+    margin: 20px;
+}
+
+.Startech{
+    width: 20%;
+    background-color: #fff;
+    border-radius: 25px;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+
+    
+
+
+}
+.img{
+    width: 80%;
+    height:250px;
+    background-size: cover;
+    padding: 20px;
+    background-image: url(https://www.startech.com.bd/image/cache/catalog/earbuds/huawei/freebuds-5/freebuds-5-01-200x200.webp);
+}
+
+.details h4{
+
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 24px;
+    height:70px;
+}
+.price{
+
+    display: inline;
+    padding-right: 10px;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+
+}
+
+.display{
+
+    display: inline;
+    font-size: 20px;
+    text-decoration: line-through;
+
+
+}
+
+.img.two{
+    background-image: url(https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/g5-mf/g5-mf-01-200x200.webp);
+}
+
+
+.img.three{
+
+   background-image: url(https://www.startech.com.bd/image/cache/catalog/smart-watch/kieslect/ks-pro/ks-pro-black-01-200x200.webp);
+}
+
+.img.four{
+
+    background-image: url(https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-6a/pixel-6a-01-200x200.webp);
+ }
+ 
